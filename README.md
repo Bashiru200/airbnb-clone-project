@@ -1,2 +1,2 @@
 # airbnb-clone-project
-An 
+An airbnb clone
